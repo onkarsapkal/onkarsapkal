@@ -39,9 +39,9 @@ I’m currently working as a *Python Developer Intern (May 2025 - Present)* at *
 ## 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasadsapkal55&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=onkarsapkal&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=prasadsapkal55&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=onkarsapkal&theme=github-dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
