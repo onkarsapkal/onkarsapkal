@@ -48,11 +48,6 @@ I’m currently working as a *Python Developer Intern (May 2025 - Present)* at *
 
 ## 📫 Connect with Me
 
-[![LinkedIn](www.linkedin.com/in/onkar-sapkal)
-[![Email](onkarsapkaloo7@gmail.com)
-[![GitHub](https://github.com/onkarsapkal/onkarsapkal)
-
----
-> Talk is cheap. Show me the code. - Linus Torvalds
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Onkar_Sapkal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Onkar_Sapkal)
+[![Email](https://img.shields.io/badge/Gmail-onkarsapkal007@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onkarsapkal007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Onkar-sapkal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onkarsapkal)
