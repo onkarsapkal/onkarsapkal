@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Onkar Vilas Sapkal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Developer;Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Developer;Python+Developer;Back -end Devloper" alt="Typing SVG" />
 </p>
 
 💻 *Full Stack Python Developer*  
