@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Current Internship
 
-I’m currently working as a *Python Developer Intern (May 2025 - Present)* at *xNETRA*, focusing on building desktop applications that deliver seamless user experiences and robust functionality.
+I have  work experiance as a *Python Developer Intern (May 2025 - july 2025)* at *xNETRA*, focusing on building desktop applications that deliver seamless user experiences and robust functionality.
 
 ---
 
