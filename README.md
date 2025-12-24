@@ -51,3 +51,4 @@ I have  work experiance as a *Python Developer Intern (May 2025 - july 2025)* at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Onkar_Sapkal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Onkar_Sapkal)
 [![Email](https://img.shields.io/badge/Gmail-onkarsapkal007@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onkarsapkal007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Onkar--sapkal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onkarsapkal)
+[![GitHub](https://img.shields.io/badge/GitHub-Onkar--sapkal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onkarsapkal)
