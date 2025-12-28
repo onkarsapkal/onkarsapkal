@@ -36,14 +36,6 @@ I have  work experiance as a *Python Developer Intern (May 2025 - july 2025)* at
 ![n8n](https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge&logo=n8n&logoColor=white)
 ---
 
-## 🚀 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onkarsapkal&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=onkarsapkal&theme=github-dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 📫 Connect with Me
